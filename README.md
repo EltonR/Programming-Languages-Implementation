@@ -12,3 +12,5 @@ Assignments from the course
     T6 is a DSL implementation. <br>Description: "Implementação de uma pequena DSLs. Em  duplas,  montem  uma  DSL  externa  e  a  implementem  no  ANTLR,  noXText/XTend ou em alguma outra ferramenta de sua escolha. A linguagem deveser ao menos descrita por sua gramatica e deve gerar código de alguma forma(seja código em uma linguagem de propósito geral, como Java, seja interpretandoo código diretamente)."
   </li>
 </ul>
+
+Note: all this works where made with the contribution of @LorenzoFeldens
