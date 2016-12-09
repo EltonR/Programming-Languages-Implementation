@@ -13,4 +13,4 @@ Assignments from the course
   </li>
 </ul>
 
-Note: all this works where made with the contribution of <a href:"https://github.com/LorenzoFeldens">LorenzoFeldens</a>
+Note: all this works where made with the contribution of Lorenzo Feldens (user: https://github.com/LorenzoFeldens).
